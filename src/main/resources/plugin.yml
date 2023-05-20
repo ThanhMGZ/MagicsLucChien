@@ -1,0 +1,11 @@
+name: MagicsLucChien
+version: '${project.version}'
+main: net.thanhmgz.magicslucchien.MagicsLucChien
+api-version: 1.16
+commands:
+  MagicsLucChien:
+    usage: /<command>
+    aliases: mlc
+  MagicsLucChienAdmin:
+    usage: /<command>
+    aliases: mlca
